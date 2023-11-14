@@ -1,0 +1,20 @@
+This Update (v2.4.4)
+ - Halloween Assets Removed.
+ - Sofa Extended, Extra Bean Bag.
+ - Default Sound Increased.
+ - New Reflection Probes.
+ - Relocated and Resized Player Log.
+ - Added String Downloader for Movie Night and World Updates.
+
+
+Future Updates: (v?.??)
+- Suggest on discord! 
+
+Known Issues:
+ - UI functions as intended when clicked but some buttons don't change their state. Need to redesign a few buttons from scratch at some point.
+
+
+
+megumineko.com/discord                   
+
+Megumi ❤️
